@@ -1,12 +1,4 @@
 {
   "name": "yarn-survey",
-  "version": "1.0.0",
-  "description": "Idk.",
-  "main": "index.js",
-  "repository": "https://github.com/MDeanLindsay/Yarn-Survey.git",
-  "author": "Michael <michaeldeanlindsay@gmail.com>",
-  "license": "MIT",
-  "devDependencies": {
-    "parcel": "^2.8.3"
-  }
+  "packageManager": "yarn@3.4.1"
 }
